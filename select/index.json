@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジャンキーダウン",
+  "base_artist": "Fushi",
+  "createdAt": "2026-03-13T18:06:06.619103Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジャンキーダウン",
+      "artist": "Fushi",
+      "has_synced": false,
+      "path": "select/pl_01_ジャンキーダウン_Fushi.txt"
+    }
+  ]
+}
